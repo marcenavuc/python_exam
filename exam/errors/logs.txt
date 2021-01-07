@@ -1,0 +1,3 @@
+INFO:__main__:Application canceled
+CRITICAL:__main__:Все пошло по ...
+ERROR:__main__:Eroor
